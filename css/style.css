@@ -1748,11 +1748,11 @@ img {
 
   .footer__contact-name span {
     padding: 0 7px 0 0;
-    font-size: 1rem;
+    font-size: 0.875rem;
   }
 
   .footer__contact-name p {
-    font-size: 1rem;
+    font-size: 0.875rem;
   }
 
   .footer__contact-email {
@@ -1761,11 +1761,11 @@ img {
 
   .footer__contact-email span {
     padding: 2px 7px 0 0;
-    font-size: 1rem;
+    font-size: 0.875rem;
   }
 
   .footer__contact-email p {
-    font-size: 1rem;
+    font-size: 0.875rem;
   }
 
   .footer__social {
