@@ -1009,7 +1009,7 @@ img {
    -webkit-box-pack: justify;
    -ms-flex-pack: justify;
    justify-content: space-between;
-   padding: 0 35px
+   padding: 0 10px
 }
 
 .events__location p:first-child {
@@ -1039,7 +1039,7 @@ img {
 }
 
 .events__date {
-   padding: 20px 0 0 35px;
+   padding: 20px 0 0 10px;
    font-weight: 700;
    font-size: 1rem;
    text-transform: uppercase;
@@ -1479,9 +1479,7 @@ img {
       padding: 30px 0 0 0
    }
 
-   .events__date {
-      padding: 5px 0 0 5px
-   }
+   
 }
 
 @media (max-width:900px) {
